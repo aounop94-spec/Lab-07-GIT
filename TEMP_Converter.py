@@ -13,6 +13,6 @@ fahrenheit = celsius * 9 / 5 + 32
 kelvin = celsius + 273.15
 
 # Show the result
-print("Temperature in Fahrenheit:", fahrenheit)
-print("Temperature in Kelvin:", kelvin)
+print("Fahrenheit:", fahrenheit)
+
 
